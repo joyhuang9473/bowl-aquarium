@@ -73,6 +73,13 @@ JDK, MySQL(MariaDB)
     Java(TM) SE Runtime Environment (build 1.8.0_66-b17)
     Java HotSpot(TM) 64-Bit Server VM (build 25.66-b17, mixed mode)
 
+    $ mysql -u test -p
+
+    Welcome to the MariaDB monitor.  Commands end with ; or \g.
+    Your MariaDB connection id is {id}
+    Server version: 10.1.9-MariaDB Homebrew
+    ...
+
 Build and run
 -----------------------
 
