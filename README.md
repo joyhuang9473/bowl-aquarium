@@ -5,7 +5,7 @@ Bowl Aquarium
 
 Bowl Aquarium is a fish farm online game project, written in Java.
 
-Freshman project in "Introduction of Computer Science". Last updated 11/28/2013.
+Freshman project in class "Introduction of Computer Science". Last updated 11/28/2013.
 
 How to play
 -----------------------
